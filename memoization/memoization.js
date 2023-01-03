@@ -8,7 +8,7 @@
 // caching the value based on the input;
 const prevValues = [];
 
-//! inefficient, so prevValues are added:
+//* inefficient, w/o prevValues:
 // const square = (n) => {
 //   let result = 0;
 //   for (let i = 0; i < n; i++) {
@@ -46,7 +46,7 @@ console.log(square(30000));
 
 // Recursive Functions:
 
-// ! w/o memoization
+//! w/o memoization
 // const fib = (n) => {
 //   if (n <= 2) {
 //     return 1;
