@@ -18,3 +18,4 @@ Object.prototype.hasOwnProperty.call(obj, "toString"); // false
 
 //! neu:
 console.log(Object.hasOwn(obj, "value")); // true
+console.log(Object.hasOwn(obj, "toString")); // true
