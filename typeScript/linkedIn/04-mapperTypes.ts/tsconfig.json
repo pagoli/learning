@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "outDir": "../04-helperTypes1/dist"
+  },
+  "include": ["../04-helperTypes1/**.ts"]
+}
