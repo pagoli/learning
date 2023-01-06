@@ -1,0 +1,16 @@
+{
+  "name": "thenativewebts",
+  "version": "1.0.0",
+  "devDependencies": {
+    "typescript": "^4.9.4",
+    "ts-node": "^10.9.1"
+  },
+  "description": "the native web typescript 80 min introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
